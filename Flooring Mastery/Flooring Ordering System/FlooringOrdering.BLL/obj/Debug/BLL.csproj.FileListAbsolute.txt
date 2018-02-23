@@ -1,0 +1,6 @@
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\BLL\bin\Debug\BLL.exe.config
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\BLL\bin\Debug\BLL.exe
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\BLL\bin\Debug\BLL.pdb
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\BLL\obj\Debug\BLL.exe
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\BLL\obj\Debug\BLL.pdb

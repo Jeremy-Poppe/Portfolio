@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flooring Ordering System", "Flooring Ordering System\Flooring Ordering System.csproj", "{C5B6010D-6552-4A48-B551-1F057D690775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlooringOrdering.UI", "UI\FlooringOrdering.UI.csproj", "{832DB14C-3EAD-4A2E-874A-5DA4931FBA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{81E9581B-84BB-499D-A356-52962405E0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.Test", "Orders.Test\Orders.Test.csproj", "{2C395947-E647-4A3B-8BAB-95CC5A912354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Data", "Ordering.Data\Ordering.Data.csproj", "{9891E702-589E-4717-AA58-60A1C28587C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlooringOrdering.BLL", "FlooringOrdering.BLL\FlooringOrdering.BLL.csproj", "{DA268973-6B34-4F76-BFE1-F7DBE50A2BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B6010D-6552-4A48-B551-1F057D690775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B6010D-6552-4A48-B551-1F057D690775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B6010D-6552-4A48-B551-1F057D690775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B6010D-6552-4A48-B551-1F057D690775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832DB14C-3EAD-4A2E-874A-5DA4931FBA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832DB14C-3EAD-4A2E-874A-5DA4931FBA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832DB14C-3EAD-4A2E-874A-5DA4931FBA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832DB14C-3EAD-4A2E-874A-5DA4931FBA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E9581B-84BB-499D-A356-52962405E0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E9581B-84BB-499D-A356-52962405E0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E9581B-84BB-499D-A356-52962405E0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E9581B-84BB-499D-A356-52962405E0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C395947-E647-4A3B-8BAB-95CC5A912354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C395947-E647-4A3B-8BAB-95CC5A912354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C395947-E647-4A3B-8BAB-95CC5A912354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C395947-E647-4A3B-8BAB-95CC5A912354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9891E702-589E-4717-AA58-60A1C28587C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9891E702-589E-4717-AA58-60A1C28587C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9891E702-589E-4717-AA58-60A1C28587C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9891E702-589E-4717-AA58-60A1C28587C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA268973-6B34-4F76-BFE1-F7DBE50A2BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA268973-6B34-4F76-BFE1-F7DBE50A2BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA268973-6B34-4F76-BFE1-F7DBE50A2BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA268973-6B34-4F76-BFE1-F7DBE50A2BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

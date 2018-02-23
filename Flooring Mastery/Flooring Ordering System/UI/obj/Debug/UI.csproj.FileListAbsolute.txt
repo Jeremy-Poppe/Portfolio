@@ -1,0 +1,5 @@
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\UI\bin\Debug\UI.exe.config
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\UI\bin\Debug\UI.exe
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\UI\bin\Debug\UI.pdb
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\UI\obj\Debug\UI.exe
+C:\Users\Jerem\Desktop\TheSoftwareGuild\jeremy-poppe-individual-work\Week-5\Flooring Mastery\Flooring Ordering System\UI\obj\Debug\UI.pdb
